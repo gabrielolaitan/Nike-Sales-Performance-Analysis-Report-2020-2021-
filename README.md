@@ -132,9 +132,8 @@ The data preparation process involved the following key steps:
 -	**Q4 Recovery**: Whereas Q4 2020 ended weak, Q4 2021 showed a strong growth trajectory into the year-end.
 
 ## 4. Unit Sales by Product Category
-
 ### 2020
-
+![](IMA/Screenshot%202025-05-15%20125619.png)
 - **Top-Selling Category**: Men’s Street Footwear is the best-performing product category, with the highest number of units with 58,000 units.
 -	**Strong Male Product Performance**: Both Men’s Street Footwear and Men’s Athletic Footwear dominate the chart, indicating a higher demand for men’s footwear compared to apparel or women’s products.
 -	**Gender-Based Trends**: Men’s product categories (footwear and apparel) collectively outperform women’s categories in unit sales. Women’s Apparel comes third, showing relatively strong performance among women's products.
@@ -143,7 +142,7 @@ The data preparation process involved the following key steps:
 
 
 ### 2021
-
+![](IMA/Screenshot%202025-05-15%20125632.png)
 -	**Top-Sеllіng category**: Men’s Strееt Fооtwеаr leads clearly wіth 48K units, оutреrfоrmіng аll other саtеgоrіеѕ by a wіdе mаrgіn. 
 -	**Strоng Mid-Tier Performance**: Mеn’ѕ Athlеtіс Fооtwеаr аnd Women’s Apparel аrе tіеd аt 34K units, making thеm ѕtrоng mіd-rаngе реrfоrmеrѕ.  Thіѕ ѕuggеѕtѕ a bаlаnсеd іntеrеѕt іn bоth mеn'ѕ sports gеаr аnd wоmеn'ѕ general clothing. 
 -	**Mоdеrаtе Sаlеѕ**: Wоmеn’ѕ Strееt Fооtwеаr ѕоld 31K unіtѕ, рlасіng іt juѕt behind the ѕесоnd-tіеr grоuр. 
@@ -159,7 +158,8 @@ The data preparation process involved the following key steps:
 5.	**Balanced but Declining Demand**: Despite decent performance rankings in 2021, most products saw nearly one-fifth of their demand evaporate year-over-year.
  
 ## 5. Pricing Analysis (2020–2021)
-
+![](IMA/Screenshot%202025-05-15%20125700.png)
+![](IMA/Screenshot%202025-05-15%20125712.png)
 1. **Trend Direction**  
    - In 2020, the sum of price per unit declined overall by 8.51%, from $47 in January to $43 in November, reflecting a Declining market.
    - In 2021, the average price per unit rose significantly by 32.43%, from $37 in January to $49 in November, indicating a strong bullish trend
@@ -182,8 +182,9 @@ The data preparation process involved the following key steps:
 
 ## 6. Product Category Performance  
 (2020)  
+![](IMA/Screenshot%202025-05-15%20125730.png)
 (2021)
-
+![](IMA/Screenshot%202025-05-15%20125740.png)
 1. Men's Street Footwear: Maintained dominant position as top revenue generator  
 • 2020: $378K  
 • 2021: $1.62M (328.57% increase).  
@@ -204,7 +205,7 @@ The data preparation process involved the following key steps:
 • 2021: $790K (234.75% increase)
 
 ## 7. Correlation Between Revenue & Price
-
+![](IMA/Screenshot%202025-05-15%20125740.png)
 The data points (Men's Apparel, Men's Athletic Footwear, Men's Street Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear) show a scattered distribution without a clear linear trend.  
 There is no consistent upward or downward pattern. Men's Street Footwear has the highest sales ($1.99M) at $43.78, while Women's Apparel has moderate sales ($1.7M) at a higher price ($51.13), and Women's Street Footwear has low sales ($1.02M) at $40.65. Despite low prices, Men’s products generate more revenue, suggesting price elasticity is low (demand isn’t heavily impacted by price).
 
