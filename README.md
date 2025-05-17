@@ -77,22 +77,7 @@ The data preparation process involved the following key steps:
 3. **Validation of Data Completeness**  
    - Confirmed completeness and consistency of data across all product categories, regions, retailers, and time periods.
 
-4. **Integration of Sales Data**  
-   - Combined sales records across multiple retailers and regional sources into a unified dataset for comprehensive analysis.
-
-5. **Categorization of Products**  
-   - Products were classified by gender (Men’s and Women’s) and by product type (Apparel, Athletic Footwear, Street Footwear) to support segmentation.
-
-6. **Geographic Classification**  
-   - Sales data was mapped to appropriate regions (e.g., Northeast, Midwest) and states (e.g., California, Texas) for regional performance analysis.
-
-7. **Channel Classification**  
-   - Each sales record was tagged based on the sales channel (In-store, Online, or Outlet) to evaluate channel performance and revenue efficiency.
-
-8. **Data Structuring for Multi-Dimensional Analysis**  
-   - Data was organized into a model that supports cross-tabulation and slicing across key dimensions such as time, location, product type, gender, and channel.
-
-9. **Visualization and Insight Generation**  
+4. **Visualization and Insight Generation**  
    - Custom dashboards were developed in Power BI to visualize trends, compare performance across segments, and extract actionable business insights.
 
 ---
