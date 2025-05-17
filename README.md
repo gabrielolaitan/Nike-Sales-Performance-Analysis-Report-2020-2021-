@@ -101,7 +101,9 @@ The data preparation process involved the following key steps:
 # Data Analysis and Insights
 
 ## 1. Revenue Growth Analysis (Overall Performance)
+
 ![](IMA/Screenshot%202025-05-15520125509.png)
+
 ![](IMA/Screenshot%202025-05-15%20125524.png)
 
 - **Total Sales Revenue**: Increased from $1.82M (2020) to $6.81M (2021), representing a 274% year-over-year growth  
