@@ -115,9 +115,8 @@ The data preparation process involved the following key steps:
 - **Sales-to-Unit Ratio**: Revenue growth (274%) slightly lagged behind unit growth (326%), indicating a strategic volume-focused approach  
 
 ## 3. Sales Trajectory Patterns
-![](IMA/Screenshot%202025-05-15%20125552.png)
 ### 2020 Pattern
-
+![](IMA/Screenshot%202025-05-15%20125552.png)
 - **Jan to April**: Steady growth leading to a significant spike in April, due to a promotional campaign  
 - **May to June**: A steep drop, potentially linked to early pandemic impact  
 - **July to Sept**: A moderate recovery, peaking again in August (~$200K), then gradually declining  
