@@ -213,7 +213,7 @@ The data preparation process involved the following key steps:
 ## 7. Correlation Between Revenue & Price
 ![](IMA/Screenshot%202025-05-15%20125946.png)
 The data points (Men's Apparel, Men's Athletic Footwear, Men's Street Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear) show a scattered distribution without a clear linear trend.  
-There is no consistent upward or downward pattern. Men's Street Footwear has the highest sales ($1.99M) at $43.78, while Women's Apparel has moderate sales ($1.7M) at a higher price ($51.13), and Women's Street Footwear has low sales ($1.02M) at $40.65. Despite low prices, Men’s products generate more revenue, suggesting price elasticity is low (demand isn’t heavily impacted by price).
+There is no consistent upward or downward pattern. Men's Street Footwear has the highest sales ($1.99M) at $43.78, while Women's Apparel has moderate sales ($1.7M) at a higher price ($51.13), and Women's Street Footwear has low sales ($1.02M) at $40.65. 
 
 ## 8. Sales Performance Analysis by Region and Product Category
 ![](IMA/Screenshot%202025-05-15%20130019.png)
