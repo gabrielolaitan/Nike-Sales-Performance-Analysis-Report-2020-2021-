@@ -119,7 +119,7 @@ The data preparation process involved the following key steps:
 - **Oct to Dec**: Consistent decline, with December ending near the lowest point due to reduced consumer demand  
 
 ### 2021 Pattern
-
+![](IMA/Screenshot 2025-05-15 125607.png)
 - **Q1 (Jan–Mar)**: A gradual decline, with March showing the lowest sales of the year ($371K)  
 - **Q2 (Apr–Jun)**: A sharp rebound, especially in April and May, with sales rising to over $608K  
 - **Q3 (Jul–Sep)**: Sales peaked in July (over $734K), but declined through September  
