@@ -62,8 +62,7 @@ The analysis was conducted using:
 
 - **Power BI**  
 - Data visualization techniques for pattern identification  
-- Comparative analysis methods for cross-category and cross-region performance evaluation  
-- Segmentation analysis tools for demographic and geographic insights  
+
 
 ## Data Preparation Process
 
