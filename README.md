@@ -205,19 +205,19 @@ The data preparation process involved the following key steps:
 • 2021: $790K (234.75% increase)
 
 ## 7. Correlation Between Revenue & Price
-![](IMA/Screenshot%202025-05-15%20125740.png)
+![](IMA/Screenshot%202025-05-15%20125946.png)
 The data points (Men's Apparel, Men's Athletic Footwear, Men's Street Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear) show a scattered distribution without a clear linear trend.  
 There is no consistent upward or downward pattern. Men's Street Footwear has the highest sales ($1.99M) at $43.78, while Women's Apparel has moderate sales ($1.7M) at a higher price ($51.13), and Women's Street Footwear has low sales ($1.02M) at $40.65. Despite low prices, Men’s products generate more revenue, suggesting price elasticity is low (demand isn’t heavily impacted by price).
 
 ## 8. Sales Performance Analysis by Region and Product Category
-
+![](IMA/Screenshot%202025-05-15%20130019.png)
 1. Top-Performing Product Categories: Men’s Street Footwear recorded the highest sales overall, with the Northeast region leading at $510K, followed by the West at $460K. This category stands out as the strongest revenue driver and suggests high national demand. Women’s Apparel also performed consistently well across all regions, especially in the West ($452K) and Northeast ($375K). This indicates sustained interest and a reliable revenue stream in this segment.  
 2. Strong Regional Contributions: The West region emerged as the strongest overall performer, leading in five out of six product categories. This consistent dominance suggests a mature and receptive market, making it ideal for new product launches or premium offerings. The Northeast demonstrated strong performance in categories such as Men’s Street Footwear and Women’s Apparel, indicating consumer preference for urban/stylish products.  
 3. Underperforming Categories: Women’s Athletic Footwear showed the lowest sales across most regions, with particularly weak performance in the Midwest ($135K) and South ($184K). Despite moderate interest in the West ($302K), this category represents a potential growth area if repositioned with better marketing and product variety. Women’s Street Footwear had mixed results, strong in the West ($369K) but underperforming in other regions like the Midwest ($162K). This suggests regional variation in fashion preferences or seasonal relevance.  
 4. Low-Performing Regions: The Midwest and South generally recorded the lowest sales across most product categories. Their consistent underperformance suggests potential issues such as limited market penetration, distribution challenges, or misaligned product offerings.
 
 ## 9. Sales Channel Analysis
-
+![](IMA/Screenshot%202025-05-15%20130039.png)
 • In-store sales generated the highest revenue, totaling $3.57M, positioning it as the top-performing channel. Despite having the lowest number of units sold (0.07M), the in-store method yielded the highest average revenue per unit, indicating a higher price point or more premium product mix.  
 • The Outlet channel followed with $2.60M in revenue and 0.08M units sold, reflecting balanced performance. This channel appears to offer steady volume and value without leaning heavily on discounting or premium pricing.  
 • Online sales, though slightly behind at $2.47M, recorded the highest volume of units sold (0.09M). This suggests that while online sales are volume-driven, they are likely lower-margin compared to in-store purchases.  
@@ -229,7 +229,7 @@ By comparing total sales with units sold:
 • The Outlet channel serves as a middle ground, providing a mix of value and scale.
 
 ## 10. Sales Performance Insights by State
-
+![](IMA/Screenshot%202025-05-15%20130052.png)
 1. New York ($642K) leads all states in total sales, followed by: California ($601K), Florida ($590K). These three states alone account for a significant proportion of overall sales, highlighting their strategic importance.  
 2. High Sales Contributors (Second Tier) States such as Texas ($463K), Washington ($263K), and South Carolina ($292K) form the next tier. Though not as dominant as the top three, they contribute substantially and warrant attention in marketing and sales efforts.  
 3. Mid-Level Performers States including Louisiana, Virginia, Oregon, and Nevada generate between $208K and $237K in sales. These states represent stable markets with moderate sales potential.  
