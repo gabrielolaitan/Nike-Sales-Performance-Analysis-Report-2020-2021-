@@ -104,13 +104,13 @@ The data preparation process involved the following key steps:
 - **Sales Acceleration**: Second half of 2021 showed particularly strong momentum, with consistent month-over-month growth  
 
 ## 2. Volume Metrics
-
+![](IMA/Screenshot%202025-05-15%20125536.png)
 - **Units Sold Growth**: From 46K units (2020) to 196K units (2021), representing a 326% increase  
 - **Cumulative Units (2020-2021)**: 242K total units sold across the two-year period  
 - **Sales-to-Unit Ratio**: Revenue growth (274%) slightly lagged behind unit growth (326%), indicating a strategic volume-focused approach  
 
 ## 3. Sales Trajectory Patterns
-
+![](IMA/Screenshot%202025-05-15%20125552.png)
 ### 2020 Pattern
 
 - **Jan to April**: Steady growth leading to a significant spike in April, due to a promotional campaign  
